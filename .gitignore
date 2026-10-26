@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.local
+.env*.local
+__pycache__
+
+# Google Cloud service-account keys
+*-key.json
+gcp-key*.json
